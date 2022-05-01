@@ -16,6 +16,4 @@ jobs:
         # with:
         #   path: "playbooks/"  # <-- only one value is allowed
 
-        #testing this for demo 
-
-
+  
